@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{1988EDE0-724A-4331-B6E0-AB64997C925C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{802D3962-3A3B-4639-828A-0C31F5250DFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Importer", "Importer\Importer.csproj", "{2A401CDB-6665-4483-82CB-54FAD777C298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1988EDE0-724A-4331-B6E0-AB64997C925C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1988EDE0-724A-4331-B6E0-AB64997C925C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1988EDE0-724A-4331-B6E0-AB64997C925C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1988EDE0-724A-4331-B6E0-AB64997C925C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802D3962-3A3B-4639-828A-0C31F5250DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802D3962-3A3B-4639-828A-0C31F5250DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802D3962-3A3B-4639-828A-0C31F5250DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802D3962-3A3B-4639-828A-0C31F5250DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A401CDB-6665-4483-82CB-54FAD777C298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A401CDB-6665-4483-82CB-54FAD777C298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A401CDB-6665-4483-82CB-54FAD777C298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A401CDB-6665-4483-82CB-54FAD777C298}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
